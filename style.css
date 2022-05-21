@@ -345,141 +345,6 @@ a {
   clear: both;
 }
 
-.gl-col,
-.gl-quarter,
-.gl-third {
-  float: left;
-  width: 100%;
-}
-
-.gl-col.s1 {
-  width: 8.33333%;
-}
-
-.gl-col.s2 {
-  width: 16.66666%;
-}
-
-.gl-col.s3 {
-  width: 24.99999%;
-}
-
-.gl-col.s4 {
-  width: 33.33333%;
-}
-
-.gl-col.s5 {
-  width: 41.66666%;
-}
-
-.gl-col.s6 {
-  width: 49.99999%;
-}
-
-.gl-col.s7 {
-  width: 58.33333%;
-}
-
-.gl-col.s8 {
-  width: 66.66666%;
-}
-
-.gl-col.s9 {
-  width: 74.99999%;
-}
-
-.gl-col.s10 {
-  width: 83.33333%;
-}
-
-.gl-col.s11 {
-  width: 91.66666%;
-}
-
-.gl-col.s12 {
-  width: 99.99999%;
-}
-
-@media (min-width: 601px) {
-  .gl-col.m1 {
-    width: 8.33333%;
-  }
-  .gl-col.m2 {
-    width: 16.66666%;
-  }
-  .gl-col.m3,
-  .gl-quarter {
-    width: 24.99999%;
-  }
-  .gl-col.m4,
-  .gl-third {
-    width: 33.33333%;
-  }
-  .gl-col.m5 {
-    width: 41.66666%;
-  }
-  .gl-col.m6 {
-    width: 49.99999%;
-  }
-  .gl-col.m7 {
-    width: 58.33333%;
-  }
-  .gl-col.m8 {
-    width: 66.66666%;
-  }
-  .gl-col.m9 {
-    width: 74.99999%;
-  }
-  .gl-col.m10 {
-    width: 83.33333%;
-  }
-  .gl-col.m11 {
-    width: 91.66666%;
-  }
-  .gl-col.m12 {
-    width: 99.99999%;
-  }
-}
-
-@media (min-width: 993px) {
-  .gl-col.l1 {
-    width: 8.33333%;
-  }
-  .gl-col.l2 {
-    width: 16.66666%;
-  }
-  .gl-col.l3 {
-    width: 24.99999%;
-  }
-  .gl-col.l4 {
-    width: 33.33333%;
-  }
-  .gl-col.l5 {
-    width: 41.66666%;
-  }
-  .gl-col.l6 {
-    width: 49.99999%;
-  }
-  .gl-col.l7 {
-    width: 58.33333%;
-  }
-  .gl-col.l8 {
-    width: 66.66666%;
-  }
-  .gl-col.l9 {
-    width: 74.99999%;
-  }
-  .gl-col.l10 {
-    width: 83.33333%;
-  }
-  .gl-col.l11 {
-    width: 91.66666%;
-  }
-  .gl-col.l12 {
-    width: 99.99999%;
-  }
-}
-
 .gl-content {
   margin-left: auto;
   margin-right: auto;
@@ -777,151 +642,151 @@ a {
 }
 
 .gl-small {
-  font-size: 12px !important;
+  font-size: 12px;
 }
 
 .gl-medium {
-  font-size: 15px !important;
+  font-size: 15px;
 }
 
 .gl-large {
-  font-size: 18px !important;
+  font-size: 18px;
 }
 
 .gl-xlarge {
-  font-size: 24px !important;
+  font-size: 24px;
 }
 
 .gl-xxlarge {
-  font-size: 36px !important;
+  font-size: 36px;
 }
 
 .gl-jumbo {
-  font-size: 64px !important;
+  font-size: 6.4rem;
 }
 
 .gl-center {
-  text-align: center !important;
+  text-align: center;
 }
 
 .gl-border-0 {
-  border: 0 !important;
+  border: 0;
 }
 
 .gl-border {
-  border: 1px solid #ccc !important;
+  border: 1px solid #ccc;
 }
 
 .gl-border-top {
-  border-top: 1px solid #ccc !important;
+  border-top: 1px solid #ccc;
 }
 
 .gl-border-bottom {
-  border-bottom: 1px solid #ccc !important;
+  border-bottom: 1px solid #ccc;
 }
 
 .gl-border-left {
-  border-left: 1px solid #ccc !important;
+  border-left: 1px solid #ccc;
 }
 
 .gl-border-right {
-  border-right: 1px solid #ccc !important;
+  border-right: 1px solid #ccc;
 }
 
 .gl-section {
-  margin-top: 16px !important;
-  margin-bottom: 16px !important;
+  margin-top: 16px;
+  margin-bottom: 16px;
 }
 
 .gl-margin {
-  margin: 16px !important;
+  margin: 16px;
 }
 
 .gl-margin-top {
-  margin-top: 16px !important;
+  margin-top: 16px;
 }
 
 .gl-margin-bottom {
-  margin-bottom: 16px !important;
+  margin-bottom: 16px;
 }
 
 .gl-margin-left {
-  margin-left: 16px !important;
+  margin-left: 16px;
 }
 
 .gl-margin-right {
-  margin-right: 16px !important;
+  margin-right: 16px;
 }
 
 .gl-padding-small {
-  padding: 4px 8px !important;
+  padding: 4px 8px;
 }
 
 .gl-padding {
-  padding: 8px 16px !important;
+  padding: 8px 16px;
 }
 
 .gl-padding-large {
-  padding: 12px 24px !important;
+  padding: 12px 24px;
 }
 
 .gl-padding-16 {
-  padding-top: 16px !important;
-  padding-bottom: 16px !important;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .gl-padding-24 {
-  padding-top: 24px !important;
-  padding-bottom: 24px !important;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .gl-padding-32 {
-  padding-top: 32px !important;
-  padding-bottom: 32px !important;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .gl-padding-48 {
-  padding-top: 48px !important;
-  padding-bottom: 48px !important;
+  padding-top: 48px;
+  padding-bottom: 48px;
 }
 
 .gl-padding-64 {
-  padding-top: 64px !important;
-  padding-bottom: 64px !important;
+  padding-top: 64px;
+  padding-bottom: 64px;
 }
 
 .gl-padding-top-64 {
-  padding-top: 64px !important;
+  padding-top: 64px;
 }
 
 .gl-padding-top-48 {
-  padding-top: 48px !important;
+  padding-top: 48px;
 }
 
 .gl-padding-top-32 {
-  padding-top: 32px !important;
+  padding-top: 32px;
 }
 
 .gl-padding-top-24 {
-  padding-top: 24px !important;
+  padding-top: 24px;
 }
 
 .gl-left {
-  float: left !important;
+  float: left;
 }
 
 .gl-right {
-  float: right !important;
+  float: right;
 }
 
 .gl-button:hover {
-  color: #000 !important;
-  background-color: #ccc !important;
+  color: #000;
+  background-color: #ccc;
 }
 
 .gl-hover-none:hover,
 .gl-transparent {
-  background-color: transparent !important;
+  background-color: transparent;
 }
 
 .gl-hover-none:hover {
@@ -1054,4 +919,11 @@ a {
 .gl-border-dark-grey,
 .gl-hover-border-dark-grey:hover {
   border-color: #616161 !important;
+}
+
+/* Update */
+.gl-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
 }
