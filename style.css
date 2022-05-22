@@ -927,3 +927,16 @@ a {
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
 }
+.gl-grid-2-col {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+.gl-grid-3-col {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.gl-grid-col-span-2 {
+  grid-column: span 2;
+}
